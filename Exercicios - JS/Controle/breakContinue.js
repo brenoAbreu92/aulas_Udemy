@@ -19,5 +19,3 @@ externo: for(a in nums){
         console.log(`Par = ${a}, ${b}`)
     }
 }
-
-// mudando de branch
