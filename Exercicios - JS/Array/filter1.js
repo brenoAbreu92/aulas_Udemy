@@ -24,15 +24,3 @@ console.log(fragilidade.filter(function(f){
     return f.preco > 17
 
 }))
-
-,
-    {id: 5, mes: },
-    {id: 6, mes: },
-    {id: 7, mes: },
-    {id: 8, mes: },
-    {id: 9, mes: },
-    {id: 10, mes: },
-    {id: 11, mes: },
-    {id: 12, mes: },
-
-
